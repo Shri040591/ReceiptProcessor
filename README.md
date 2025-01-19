@@ -1,2 +1,0 @@
-# ReceiptProcessor
-Receipt processing API
